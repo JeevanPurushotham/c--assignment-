@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# assiginment\ArrayOperations\bin\Debug\net8.0\ArrayOperations.exe
+C:\Users\Admin\Desktop\C# assiginment\ArrayOperations\bin\Debug\net8.0\ArrayOperations.deps.json
+C:\Users\Admin\Desktop\C# assiginment\ArrayOperations\bin\Debug\net8.0\ArrayOperations.runtimeconfig.json
+C:\Users\Admin\Desktop\C# assiginment\ArrayOperations\bin\Debug\net8.0\ArrayOperations.dll
+C:\Users\Admin\Desktop\C# assiginment\ArrayOperations\bin\Debug\net8.0\ArrayOperations.pdb
+C:\Users\Admin\Desktop\C# assiginment\ArrayOperations\obj\Debug\net8.0\ArrayOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# assiginment\ArrayOperations\obj\Debug\net8.0\ArrayOperations.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# assiginment\ArrayOperations\obj\Debug\net8.0\ArrayOperations.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# assiginment\ArrayOperations\obj\Debug\net8.0\ArrayOperations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# assiginment\ArrayOperations\obj\Debug\net8.0\ArrayOperations.dll
+C:\Users\Admin\Desktop\C# assiginment\ArrayOperations\obj\Debug\net8.0\refint\ArrayOperations.dll
+C:\Users\Admin\Desktop\C# assiginment\ArrayOperations\obj\Debug\net8.0\ArrayOperations.pdb
+C:\Users\Admin\Desktop\C# assiginment\ArrayOperations\obj\Debug\net8.0\ArrayOperations.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# assiginment\ArrayOperations\obj\Debug\net8.0\ref\ArrayOperations.dll

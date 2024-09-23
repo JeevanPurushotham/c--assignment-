@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# assiginment\AbstractClassAndDelegateDemo\bin\Debug\net8.0\AbstractClassAndDelegateDemo.exe
+C:\Users\Admin\Desktop\C# assiginment\AbstractClassAndDelegateDemo\bin\Debug\net8.0\AbstractClassAndDelegateDemo.deps.json
+C:\Users\Admin\Desktop\C# assiginment\AbstractClassAndDelegateDemo\bin\Debug\net8.0\AbstractClassAndDelegateDemo.runtimeconfig.json
+C:\Users\Admin\Desktop\C# assiginment\AbstractClassAndDelegateDemo\bin\Debug\net8.0\AbstractClassAndDelegateDemo.dll
+C:\Users\Admin\Desktop\C# assiginment\AbstractClassAndDelegateDemo\bin\Debug\net8.0\AbstractClassAndDelegateDemo.pdb
+C:\Users\Admin\Desktop\C# assiginment\AbstractClassAndDelegateDemo\obj\Debug\net8.0\AbstractClassAndDelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# assiginment\AbstractClassAndDelegateDemo\obj\Debug\net8.0\AbstractClassAndDelegateDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# assiginment\AbstractClassAndDelegateDemo\obj\Debug\net8.0\AbstractClassAndDelegateDemo.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# assiginment\AbstractClassAndDelegateDemo\obj\Debug\net8.0\AbstractClassAndDelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# assiginment\AbstractClassAndDelegateDemo\obj\Debug\net8.0\AbstractClassAndDelegateDemo.dll
+C:\Users\Admin\Desktop\C# assiginment\AbstractClassAndDelegateDemo\obj\Debug\net8.0\refint\AbstractClassAndDelegateDemo.dll
+C:\Users\Admin\Desktop\C# assiginment\AbstractClassAndDelegateDemo\obj\Debug\net8.0\AbstractClassAndDelegateDemo.pdb
+C:\Users\Admin\Desktop\C# assiginment\AbstractClassAndDelegateDemo\obj\Debug\net8.0\AbstractClassAndDelegateDemo.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# assiginment\AbstractClassAndDelegateDemo\obj\Debug\net8.0\ref\AbstractClassAndDelegateDemo.dll
